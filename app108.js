@@ -15,4 +15,14 @@ z -= 10 //z = z-10
 //Multipliction Assignment[-=]
 let a = 20
 a *= 10 //a = a*10 
-console.log(a)
+//console.log(a)
+
+//Remainder Assignment[%=]
+let b = 20
+b %= 3 //b = b % 3
+//console.log(b)
+
+//Exponentiation Assignment[**=]
+let c = 10
+c **= 3 //c = c**3
+console.log(c)
